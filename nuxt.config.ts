@@ -44,12 +44,8 @@ export default defineNuxtConfig({
 
   routeRules: {
     // '/_ipx/**': { prerender: true, cache: { maxAge: 60 * 60 } },
-    '/sitemap.xml': { prerender: true, cache: { maxAge: 60 * 60 } },
-    '/blog/**': { prerender: true, cache: { maxAge: 60 * 60 } },
-    '/aboutus/': { prerender: true, cache: { maxAge: 60 * 60 } },
-    '/page/**': { prerender: true, cache: { maxAge: 60 * 60 } },
+
     // '/course/list': { prerender: true },
-    '/kb/**': { prerender: true, cache: { maxAge: 60 * 60 } },
     //'/course/**': { isr: 60, cache: { maxAge: 60 * 10 } },
     //'_/nuxt/**' :  { cache: { maxAge: 60 * 10 } },
     '_/vercel/**': { cache: { maxAge: 60 * 10 } },

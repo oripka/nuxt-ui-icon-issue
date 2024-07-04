@@ -15,7 +15,7 @@ if (!page.value) {
 
 
         <ULandingHero title="Access to Courses" description="Register or login to access courses."
-          :links="[{ label: 'Register', icon: 'i-heroicons-rocket-launch', size: 'lg', to: '/' }, { label: 'Sign in', color: 'gray', size: 'lg', to: '/signin' }]" />
+          :links="[{ label: 'Register', icon: 'i-heroicons-rocket-launch', size: 'lg', to: '/' }, { label: 'Sign in', color: 'gray', size: 'lg', to: '/' }]" />
 
     </div>
 </template>
