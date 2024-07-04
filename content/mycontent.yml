@@ -5,7 +5,7 @@ navigation: false
 
 features:
   title: Why choose our service?
-  description: Over 15 years of experience in packet analysis and cybersecurity training and consulting
+  description: Description
   items:
     - title: Easy to use
       description: Online tools and materials
