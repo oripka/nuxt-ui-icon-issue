@@ -1,0 +1,27 @@
+title: Name
+description: Description
+navigation: false
+
+
+features:
+  title: Why choose our service?
+  description: Over 15 years of experience in packet analysis and cybersecurity training and consulting
+  items:
+    - title: Easy to use
+      description: Online tools and materials
+      icon: i-simple-icons-linkedin
+    - title: Reliable
+      description: Excellent courses with hands-on labs
+      icon: i-heroicons-check
+    - title: Interactive
+      description: Quizzes and assessments
+      icon: i-ph-terminal-window
+    - title: Flexible
+      description: Customize your learning exprience with flexible content formats
+      icon: i-heroicons-rocket-launch
+    - title: Affordable
+      description: Early-bird discount.
+      icon: i-heroicons-currency-dollar
+    - title: High-quality material
+      description: High-quality lab guide and student guides.
+      icon: i-heroicons-chart-bar
