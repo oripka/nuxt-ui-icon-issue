@@ -70,8 +70,7 @@ export default defineNuxtConfig({
     '@nuxtjs/sitemap',
     'nuxt-schema-org',
     '@nuxtjs/google-fonts',
-    // '@nuxtjs/plausible',
-    'nuxt-icon',
+    // '@nuxtjs/plausible'
     "@nuxt/image"
   ],
 
