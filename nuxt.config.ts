@@ -42,6 +42,7 @@ export default defineNuxtConfig({
     }
   },
 
+  
   routeRules: {
     // '/_ipx/**': { prerender: true, cache: { maxAge: 60 * 60 } },
 
